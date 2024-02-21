@@ -1,0 +1,9 @@
+a=prout
+case $a in
+    caca)
+    echo titi
+    ;;
+    prout)
+    echo coucou
+    ;;
+esac

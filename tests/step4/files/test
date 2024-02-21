@@ -1,0 +1,15 @@
+a=2 b=$a c=$b
+case $a$b$c in
+    123)
+    asghaseh
+    ;;
+    321)
+    qweg
+    ;;
+    222)
+    echo success
+    ;;
+    2124)
+    prout
+    ;;
+esac

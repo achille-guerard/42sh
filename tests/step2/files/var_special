@@ -1,0 +1,1 @@
+echo $$; (echo $$ ;(echo $$)); echo $?;echo $$; echo $IFS; echo $PWD; cd ..; echo $OLDPWD; echo $PWD

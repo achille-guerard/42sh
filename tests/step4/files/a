@@ -1,0 +1,12 @@
+case prout in 
+    prout)
+    case caca in
+        pipi)
+        echo coucou
+        ;;
+        caca)
+        echo succes
+        ;;
+        esac
+    ;;
+esac

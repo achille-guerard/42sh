@@ -1,0 +1,12 @@
+cd dot_tests
+echo $PWD
+echo $OLDPWD
+cd -
+echo $PWD
+echo $OLDPWD
+cd ../../
+echo $PWD
+echo $OLDPWD
+cd -
+echo $PWD
+echo $OLDPWD
